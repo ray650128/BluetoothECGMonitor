@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ecg_monitor.xml",
+        "source": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\src\\main\\res\\layout\\ecg_monitor.xml"
+    }
+]

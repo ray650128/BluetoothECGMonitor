@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_disconnected.png",
+        "source": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\src\\main\\res\\drawable-hdpi\\ic_disconnected.png"
+    },
+    {
+        "merged": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_connected.png",
+        "source": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\src\\main\\res\\drawable-hdpi\\ic_connected.png"
+    },
+    {
+        "merged": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_exit.png",
+        "source": "D:\\Users\\Raymond\\Documents\\AndroidStudioProjects\\BluetoothECGMonitor\\app\\src\\main\\res\\drawable-hdpi\\ic_action_exit.png"
+    }
+]

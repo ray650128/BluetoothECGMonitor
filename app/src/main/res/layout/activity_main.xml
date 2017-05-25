@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/layout_style"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ToggleButton
+            android:id="@+id/btn_BTSW"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/tgbtn_style"
+            android:checked="false"
+            android:text="@string/btn_btSwitch"
+            android:textOff="@string/btn_btOff"
+            android:textOn="@string/btn_btOn" />
+
+        <Button
+            android:id="@+id/btn_SearchDev"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_style"
+            android:enabled="true"
+            android:text="@string/btn_Search"
+            android:textSize="14dp" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list_DevList"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="5"
+        android:background="@drawable/listbox_style" >
+
+    </ListView>
+
+</LinearLayout>

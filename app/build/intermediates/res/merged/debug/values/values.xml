@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ab_subtitle">請選擇藍芽心電圖機進行連線</string>
+    <string name="app_name">藍芽心電圖機</string>
+    <string name="btn_Exit">關閉</string>
+    <string name="btn_Search">搜尋裝置</string>
+    <string name="btn_btOff">開啟藍芽</string>
+    <string name="btn_btOn">關閉藍芽</string>
+    <string name="btn_btSwitch">藍芽開關</string>
+    <string name="dialog_text">根據手機性能或周遭藍芽裝置數目的影響，\n搜尋裝置會占用一段時間，\n請等待搜尋完成再進行連線。\n\n(本提示會自動關閉)</string>
+    <string name="dialog_title">搜尋中，請稍候...</string>
+    <string name="stat_btCancelLaunched">藍芽啟動被取消</string>
+    <string name="stat_btClosed">藍芽已經關閉</string>
+    <string name="stat_btLaunched">藍芽已經啟動</string>
+    <string name="stat_btReceving">正在傳輸資料</string>
+    <string name="stat_btSearching">正在搜尋藍芽裝置，請稍後</string>
+    <string name="stat_btStandby">正在等候資料</string>
+    <string name="stat_empty">沒有裝置</string>
+    <string name="stat_findComplete">搜尋完畢</string>
+    <string name="stat_findDevice">找到藍芽裝置</string>
+    <string name="stat_noDevice">找不到藍芽裝置，請確認藍芽裝置電源是否開啟</string>
+    <string name="stat_startFindDevice">開始搜尋藍芽裝置</string>
+    <string name="txt_DeviceName">裝置名稱：</string>
+    <string name="txt_DeviceStatus">連接狀態：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
